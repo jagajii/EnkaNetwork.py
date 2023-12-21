@@ -1291,6 +1291,23 @@
         "TR": "Dalgaların Gölgesi",
         "VI": "Bóng Tối Thủy Triều"
     },
+    "933442195": {
+        "CHS": "「究极霸王超级魔剑」",
+        "CHT": "「究極霸王超級魔劍」",
+        "DE": "„Megamagisches Schwert des ultimativen Oberherrn“",
+        "EN": "\"Ultimate Overlord's Mega Magic Sword\"",
+        "ES": "Superespada Mágica Suprema",
+        "FR": "« Méga épée magique du suzerain ultime »",
+        "ID": "\"Ultimate Overlord's Mega Magic Sword\"",
+        "IT": "\"Spada magica del Super Signore Supremo\"",
+        "JP": "「スーパーアルティメット覇王魔剣」",
+        "KR": "「슈퍼 울트라 패왕 마검」",
+        "PT": "Mega Ultra Espada Mágica do Soberano",
+        "RU": "«Магический супермеч высшего владыки»",
+        "TH": "\"Ultimate Overlord's Mega Magic Sword\"",
+        "TR": "\"Yüce Lordun Devasa Büyü Kılıcı\"",
+        "VI": "\"Bá Vương Tối Thượng Siêu Cấp Ma Kiếm\""
+    },
     "3693117451": {
         "CHS": "便携动力锯",
         "CHT": "便攜動力鋸",
@@ -1477,6 +1494,23 @@
         "TH": "Beacon of the Reed Sea",
         "TR": "Kızıl Çölün İradesi",
         "VI": "Hải Đăng Bờ Biển Lau"
+    },
+    "3812523339": {
+        "CHS": "裁断",
+        "CHT": "裁斷",
+        "DE": "Urteilsspruch",
+        "EN": "Verdict",
+        "ES": "Sentenciadora",
+        "FR": "Condamneur",
+        "ID": "Verdict",
+        "IT": "Verdetto",
+        "JP": "裁断",
+        "KR": "판정",
+        "PT": "Veredito",
+        "RU": "Вердикт",
+        "TH": "Verdict",
+        "TR": "Gereği Düşünüldü",
+        "VI": "Phán Quyết"
     },
     "2796697027": {
         "CHS": "新手长枪",

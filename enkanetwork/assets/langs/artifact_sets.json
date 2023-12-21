@@ -933,5 +933,39 @@
         "TH": "Golden Troupe",
         "TR": "Altın Kumpanya",
         "VI": "Đoàn Kịch Hoàng Kim"
+    },
+    "2803305851": {
+        "CHS": "昔时之歌",
+        "CHT": "昔時之歌",
+        "DE": "Lied vergangener Tage",
+        "EN": "Song of Days Past",
+        "ES": "Son de Antaño",
+        "FR": "Chanson des jours d'antan",
+        "ID": "Song of Days Past",
+        "IT": "Canto di giorni che furono",
+        "JP": "在りし日の歌",
+        "KR": "지난날의 노래",
+        "PT": "Canção do Passado",
+        "RU": "Песнь былых времён",
+        "TH": "Song of Days Past",
+        "TR": "Geçmiş Günlerin Şarkısı",
+        "VI": "Khúc Ca Ngày Cũ"
+    },
+    "279470883": {
+        "CHS": "回声之林夜话",
+        "CHT": "回聲之林夜話",
+        "DE": "Nächtliches Geflüster in den widerhallenden Wäldern",
+        "EN": "Nighttime Whispers in the Echoing Woods",
+        "ES": "Murmullo del Bosque Reverberante",
+        "FR": "Murmure nocturne en forêt d'échos",
+        "ID": "Nighttime Whispers in the Echoing Woods",
+        "IT": "Sussurri notturni nella foresta dell'eco",
+        "JP": "残響の森で囁かれる夜話",
+        "KR": "메아리숲의 야화",
+        "PT": "Ecos da Floresta Noturna",
+        "RU": "Ночной шёпот в Лесу откликающегося эха",
+        "TH": "Nighttime Whispers in the Echoing Woods",
+        "TR": "Yankılı Ormanda Gece Fısıltısı",
+        "VI": "Tiếng Đêm Trong Rừng Vang"
     }
 }

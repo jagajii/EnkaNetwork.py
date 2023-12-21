@@ -1762,5 +1762,45 @@
             895,
             896
         ]
+    },
+    "10000090": {
+        "nameTextMapHash": 540313842,
+        "iconName": "UI_AvatarIcon_Chevreuse",
+        "sideIconName": "UI_AvatarIcon_Side_Chevreuse",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Fire",
+        "skills": [
+            10901,
+            10902,
+            10905
+        ],
+        "talents": [
+            901,
+            902,
+            903,
+            904,
+            905,
+            906
+        ]
+    },
+    "10000091": {
+        "nameTextMapHash": 2877588578,
+        "iconName": "UI_AvatarIcon_Navia",
+        "sideIconName": "UI_AvatarIcon_Side_Navia",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Rock",
+        "skills": [
+            10911,
+            10912,
+            10915
+        ],
+        "talents": [
+            911,
+            912,
+            913,
+            914,
+            915,
+            916
+        ]
     }
 }
