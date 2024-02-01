@@ -213,7 +213,7 @@ class HTTPClient:
     def fetch_asset(self, folder: str, filename: str) -> Response[DefaultPayload]: # noqa
         r = Route(
             'GET',
-            f'/mrwan200/enkanetwork.py-data/master/exports/{folder}/{filename}', # noqa
+            f'/0kq-github/enkanetwork.py-data/master/exports/{folder}/{filename}', # noqa
             endpoint='assets'
         )
         return self.request(r)
