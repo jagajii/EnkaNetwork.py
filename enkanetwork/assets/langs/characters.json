@@ -1324,5 +1324,39 @@
         "TH": "Navia",
         "TR": "Navia",
         "VI": "Navia"
+    },
+    "2822240322": {
+        "CHS": "嘉明",
+        "CHT": "嘉明",
+        "DE": "Gaming",
+        "EN": "Gaming",
+        "ES": "Gaming",
+        "FR": "Gaming",
+        "ID": "Gaming",
+        "IT": "Gaming",
+        "JP": "嘉明",
+        "KR": "가명",
+        "PT": "Gaming",
+        "RU": "Ка Мин",
+        "TH": "Gaming",
+        "TR": "Gaming",
+        "VI": "Gaming"
+    },
+    "3648220770": {
+        "CHS": "闲云",
+        "CHT": "閒雲",
+        "DE": "Xianyun",
+        "EN": "Xianyun",
+        "ES": "Xianyun",
+        "FR": "Xianyun",
+        "ID": "Xianyun",
+        "IT": "Xianyun",
+        "JP": "閑雲",
+        "KR": "한운",
+        "PT": "Xianyun",
+        "RU": "Сянь Юнь",
+        "TH": "Xianyun",
+        "TR": "Xianyun",
+        "VI": "Xianyun"
     }
 }
