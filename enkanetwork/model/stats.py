@@ -15,7 +15,7 @@ class Stats(BaseModel):
     value: float = 0
 
     def to_rounded(self) -> float:
-        return math.ceil(self.value)
+        return round(self.value)
 
 
 class StatsPercentage(BaseModel):
