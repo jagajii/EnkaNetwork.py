@@ -99,6 +99,11 @@ class EquipmentsProps(BaseModel):
         super().__init__(**data)
         self.name = Assets.get_hash_map(self.prop_id)
 
+        if self.value.is_integer():
+            self.value = int(self.value)
+        else:
+            self.value = float(self.value)
+
     def get_value_symbol(self):
         return f"{self.value}{'%' if self.digit == DigitType.PERCENT else ''}"
 
