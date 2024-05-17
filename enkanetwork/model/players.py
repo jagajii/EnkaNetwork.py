@@ -21,29 +21,26 @@ class ProfilePicture(BaseModel):
     """
         API Response data
     """
-    id: int = Field(0, alias="avatarId")
 
     """
         Custom add data
     """
-    icon: IconAsset = None
+    url: str = None
 
     def __init__(self, **data: Any) -> None:
         super().__init__(**data)
 
         # Get character
         LOGGER.debug("=== Avatar ===")
-        if "avatarId" in data:
-            if "costumeId" in data:
-                _data = Assets.character_costume(str(data["costumeId"]))
-                icon = _data.images if _data is not None else _data
-            else:
-                icon = Assets.character_icon(str(data["avatarId"]))
+        try:
+            url = Assets.profile_picture(str(data["id"]))
+        except:
+            return
+                
+        if not url:
+            return
 
-            if not icon:
-                return
-
-            self.icon = icon.icon
+        self.url = url
 
 
 class showAvatar(BaseModel):
