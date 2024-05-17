@@ -86,6 +86,17 @@ class Assets:
         })
 
     @classmethod
+    def profile_picture(cls,id:int) -> str:
+        LOGGER.debug(f"Getting player profile picture assets with id: {id}")
+        data = cls.DATA["pfps"].get(str(id))
+
+        if not data:
+            LOGGER.error(f"Player profile picture not found with id: {id}")
+            return 
+
+        return utils.create_ui_path(data["iconPath"])
+    
+    @classmethod
     def constellations(cls, id: int) -> Optional[assets.CharacterConstellationsAsset]:
         LOGGER.debug(f"Getting character constellations assets with id: {id}")
         data = cls.DATA["constellations"].get(str(id))
