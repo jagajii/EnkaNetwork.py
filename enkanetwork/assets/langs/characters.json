@@ -1376,6 +1376,23 @@
         "TR": "Chiori",
         "VI": "Chiori"
     },
+    "781488962": {
+        "CHS": "希格雯",
+        "CHT": "希格雯",
+        "DE": "Sigewinne",
+        "EN": "Sigewinne",
+        "ES": "Sigewinne",
+        "FR": "Sigewinne",
+        "ID": "Sigewinne",
+        "IT": "Sigewinne",
+        "JP": "シグウィン",
+        "KR": "시그윈",
+        "PT": "Sigewinne",
+        "RU": "Сиджвин",
+        "TH": "Sigewinne",
+        "TR": "Sigewinne",
+        "VI": "Sigewinne"
+    },
     "167199474": {
         "CHS": "阿蕾奇诺",
         "CHT": "阿蕾奇諾",
@@ -1392,5 +1409,39 @@
         "TH": "Arlecchino",
         "TR": "Arlecchino",
         "VI": "Arlecchino"
+    },
+    "1431322346": {
+        "CHS": "赛索斯",
+        "CHT": "賽索斯",
+        "DE": "Sethos",
+        "EN": "Sethos",
+        "ES": "Sethos",
+        "FR": "Sethos",
+        "ID": "Sethos",
+        "IT": "Sethos",
+        "JP": "セトス",
+        "KR": "세토스",
+        "PT": "Sethos",
+        "RU": "Сетос",
+        "TH": "Sethos",
+        "TR": "Sethos",
+        "VI": "Sethos"
+    },
+    "2745369298": {
+        "CHS": "克洛琳德",
+        "CHT": "克洛琳德",
+        "DE": "Clorinde",
+        "EN": "Clorinde",
+        "ES": "Clorinde",
+        "FR": "Clorinde",
+        "ID": "Clorinde",
+        "IT": "Clorinde",
+        "JP": "クロリンデ",
+        "KR": "클로린드",
+        "PT": "Clorinde",
+        "RU": "Клоринда",
+        "TH": "Clorinde",
+        "TR": "Clorinde",
+        "VI": "Clorinde"
     }
 }
