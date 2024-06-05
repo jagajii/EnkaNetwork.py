@@ -1919,6 +1919,26 @@
         "skillIcon": "Skill_E_Chiori_01",
         "proudSkillGroupId": 9439
     },
+    "10951": {
+        "nameTextMapHash": 2933818773,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 9531
+    },
+    "10952": {
+        "nameTextMapHash": 4122008677,
+        "skillIcon": "Skill_S_Sigewinne_01",
+        "proudSkillGroupId": 9532
+    },
+    "10953": {
+        "nameTextMapHash": 4011525429,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "10955": {
+        "nameTextMapHash": 35144573,
+        "skillIcon": "Skill_E_Sigewinne_01",
+        "proudSkillGroupId": 9539
+    },
     "10961": {
         "nameTextMapHash": 3395884205,
         "skillIcon": "Skill_A_03",
@@ -1948,6 +1968,51 @@
         "nameTextMapHash": 4257022253,
         "skillIcon": "Skill_A_03",
         "proudSkillGroupId": ""
+    },
+    "10971": {
+        "nameTextMapHash": 4267851909,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 9731
+    },
+    "10972": {
+        "nameTextMapHash": 1391395133,
+        "skillIcon": "Skill_S_Sethos_01",
+        "proudSkillGroupId": 9732
+    },
+    "10974": {
+        "nameTextMapHash": 1447865853,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "10975": {
+        "nameTextMapHash": 4109522381,
+        "skillIcon": "Skill_E_Sethos_01",
+        "proudSkillGroupId": 9739
+    },
+    "10981": {
+        "nameTextMapHash": 3852547301,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 9831
+    },
+    "10982": {
+        "nameTextMapHash": 2915566557,
+        "skillIcon": "Skill_S_Clorinde_01",
+        "proudSkillGroupId": 9832
+    },
+    "10983": {
+        "nameTextMapHash": 2623451381,
+        "skillIcon": "Skill_S_Clorinde_02",
+        "proudSkillGroupId": ""
+    },
+    "10984": {
+        "nameTextMapHash": 1688112725,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "10985": {
+        "nameTextMapHash": 2680644485,
+        "skillIcon": "Skill_E_Clorinde_01",
+        "proudSkillGroupId": 9839
     },
     "20001": {
         "nameTextMapHash": 1936482797,
@@ -2182,6 +2247,31 @@
     "20094": {
         "nameTextMapHash": 2428119293,
         "skillIcon": "Btn_SlimeCannon_Fire_04",
+        "proudSkillGroupId": ""
+    },
+    "20095": {
+        "nameTextMapHash": 3618854373,
+        "skillIcon": "UI_Img_MVM_Skill_Summon",
+        "proudSkillGroupId": ""
+    },
+    "20096": {
+        "nameTextMapHash": 2761936845,
+        "skillIcon": "Btn_HideAndSeek_Seeker_E_01",
+        "proudSkillGroupId": ""
+    },
+    "20097": {
+        "nameTextMapHash": 664061237,
+        "skillIcon": "UI_Img_MVM_Skill_01",
+        "proudSkillGroupId": ""
+    },
+    "20098": {
+        "nameTextMapHash": 1208879453,
+        "skillIcon": "UI_Img_MVM_Skill_02",
+        "proudSkillGroupId": ""
+    },
+    "20099": {
+        "nameTextMapHash": 260918125,
+        "skillIcon": "UI_Img_MVM_Skill_03",
         "proudSkillGroupId": ""
     },
     "20100": {
@@ -2567,6 +2657,11 @@
     "20366": {
         "nameTextMapHash": 2209588093,
         "skillIcon": "Btn_Recon_Bait",
+        "proudSkillGroupId": ""
+    },
+    "20367": {
+        "nameTextMapHash": 609324397,
+        "skillIcon": "Btn_Fishing_Exit",
         "proudSkillGroupId": ""
     },
     "10384": {
@@ -3129,9 +3224,24 @@
         "skillIcon": "Skill_A_01",
         "proudSkillGroupId": ""
     },
+    "5095010": {
+        "nameTextMapHash": 964083141,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
     "5096010": {
         "nameTextMapHash": 2699549653,
         "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "5097010": {
+        "nameTextMapHash": 2875386373,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "5098010": {
+        "nameTextMapHash": 871423685,
+        "skillIcon": "Skill_A_01",
         "proudSkillGroupId": ""
     }
 }

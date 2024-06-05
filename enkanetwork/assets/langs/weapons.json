@@ -849,6 +849,23 @@
         "TR": "Uraku Misugiri",
         "VI": "Uraku Misugiri"
     },
+    "1009471939": {
+        "CHS": "赦罪",
+        "CHT": "赦罪",
+        "DE": "Absolution",
+        "EN": "Absolution",
+        "ES": "Expiadora",
+        "FR": "Absolution",
+        "ID": "Absolution",
+        "IT": "Assoluzione",
+        "JP": "赦罪",
+        "KR": "사면",
+        "PT": "Absolvição",
+        "RU": "Отпущение грехов",
+        "TH": "Absolution",
+        "TR": "Müsamaha",
+        "VI": "Xá Tội"
+    },
     "2666951267": {
         "CHS": "训练大剑",
         "CHT": "訓練大劍",
@@ -3297,6 +3314,23 @@
         "TR": "Durgunluğun Şarkısı",
         "VI": "Khúc Ca Tĩnh Lặng"
     },
+    "4038676067": {
+        "CHS": "筑云",
+        "CHT": "築雲",
+        "DE": "Wolkenweber",
+        "EN": "Cloudforged",
+        "ES": "Cimentador de Nubes",
+        "FR": "Nimbus-forgé",
+        "ID": "Cloudforged",
+        "IT": "Forgianuvole",
+        "JP": "築雲",
+        "KR": "축운",
+        "PT": "Tocador de Nuvens",
+        "RU": "Выкованный из облаков",
+        "TH": "Cloudforged",
+        "TR": "Bulut Örgüsü",
+        "VI": "Trúc Vân"
+    },
     "1055195035": {
         "CHS": "测距规",
         "CHT": "測距規",
@@ -3500,6 +3534,23 @@
         "TH": "The First Great Magic",
         "TR": "İlk Büyük Sihir",
         "VI": "Màn Ảo Thuật Đầu Tiên"
+    },
+    "1257396043": {
+        "CHS": "白雨心弦",
+        "CHT": "白雨心弦",
+        "DE": "Tröpfelnde Herzsaiten",
+        "EN": "Silvershower Heartstrings",
+        "ES": "Corazón de la Lluvia",
+        "FR": "Corde de pluie blanche",
+        "ID": "Silvershower Heartstrings",
+        "IT": "Candido cuore della pioggia",
+        "JP": "白雨心弦",
+        "KR": "심금을 울리는 하얀 비",
+        "PT": "Cordas da Chuva Branca",
+        "RU": "Сердечные струны дождя",
+        "TH": "Silvershower Heartstrings",
+        "TR": "Gönül Yayları",
+        "VI": "Màn Mưa Tơ Lòng"
     },
     "4137694339": {
         "CHS": "(test)竿测试",
